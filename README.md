@@ -119,7 +119,7 @@ By looking at the heatmap by user type we can say that customers without a subsc
 
 
 
-The Checkout Times graph makes it clear that the majority of trips are not longer than 20 minutes 
+The Checkout Times graph makes it clear that the majority of trips are not longer than 20 minutes. 
 
 
 <p align="center">
@@ -136,6 +136,13 @@ Males and females show similar patterns when it comes to trip duration, most of 
 ## Summary 
 
 
+
+Calculating the amount of resources necessary to build a profitable bike sharing company is one of the most important steps of the business plan. 
+
+
+Given the data available we were able to plot a Bike Utilization Graph, for example. 
+
+
 <p align="center">
 <kbd>
   <img src="https://github.com/GabrielaTuma/bikesharing/blob/7fed2962046b921c5f47bb515c9639a26fd7b630/Images%20/Bike%20Utilization.png">
@@ -143,4 +150,13 @@ Males and females show similar patterns when it comes to trip duration, most of 
 </p>
 
 
+CitiBike database provide us with trip duration, stations IDs, locations, bike IDs, birth year, gender, among others. More can be done with all this data than just a Bike Utilization analysis. Findind the average ride count per station can help the company predict the necessary investment in equipment and other resources. With the latitude and longitude information we can also create sections on the map and see the average ride count per day, per hour and even per day of the week for different regions. 
+
+Also, it would be very interesting to investigate and understand the reason why the amount of male customers is much larger than female ones. Is there a way we can bring more female clients to the business? Is CitiBike doing something that is only attractive to one gender? And why this difference only applies to subscribers?
+
+<p align="center">
+<kbd>
+  <img src="xxxx">
+</kbd>  &nbsp;
+</p>
 
