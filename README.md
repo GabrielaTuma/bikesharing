@@ -70,7 +70,7 @@ The August Peak Hours graph shows that the busiest hours are 7a.m. to 10a.m. and
 
 This heatmap can seem confusing at first but is very informative and can be useful to make strategic decisions such as maintenance hours and demand forecasting. 
 
-The August Peak Hours graph done previously shows similar information, but the heatmap on the other hand brings another important variable: the day of the week. The different patterns created by weekends and weekdays emphasize the importance of looking at the data from more than one perpective. On the weekends the business is more steady throughout the day and the peak hours are around lunch time. Also, we can see that Wednesdays are visibly slower than any other day. 
+The August Peak Hours graph done previously shows similar information, but the heatmap on the other hand brings another important variable: the day of the week. The different patterns created by weekends and weekdays emphasize the importance of looking at the data from more than one perspective. On the weekends the business is more steady throughout the day and the peak hours are around lunch time. Also, we can see that Wednesdays are visibly slower than any other day. 
 
 
 
@@ -150,13 +150,13 @@ Given the data available we were able to plot a Bike Utilization Graph, for exam
 </p>
 
 
-CitiBike database provide us with trip duration, stations IDs, locations, bike IDs, birth year, gender, among others. More can be done with all this data than just a Bike Utilization analysis. Findind the average ride count per station can help the company predict the necessary investment in equipment and other resources. With the latitude and longitude information we can also create sections on the map and see the average ride count per day, per hour and even per day of the week for different regions. 
+CitiBike database provide us with trip duration, stations IDs, locations, bike IDs, birth year, gender, among others. More can be done with all this data than just a Bike Utilization analysis. Finding the average ride count per station can help the company predict the necessary investment in equipment and other resources. With the latitude and longitude information we can also create sections on the map and see the average ride count per day, per hour and even per day of the week for different regions. 
 
 Also, it would be very interesting to investigate and understand the reason why the amount of male customers is much larger than female ones. Is there a way we can bring more female clients to the business? Is CitiBike doing something that is only attractive to one gender? And why this difference only applies to subscribers?
 
 <p align="center">
 <kbd>
-  <img src="xxxx">
+  <img src="https://github.com/GabrielaTuma/bikesharing/blob/60253346705a1023f1860633c4b2c38ff29634e9/Images%20/Gender%20Count%20by%20UserType.png">
 </kbd>  &nbsp;
 </p>
 
